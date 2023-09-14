@@ -1,0 +1,3 @@
+name: SSH-C
+author: muratmirgun
+description: Github Action for copying files via ssh to a remote server

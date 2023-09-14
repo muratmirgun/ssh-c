@@ -1,0 +1,11 @@
+name: 'ssh-c-example'
+
+on:
+  push:
+    branches:
+      - 'main'
+    tags:
+      - '*'
+  pull_request:
+    branches:
+      - 'main'
